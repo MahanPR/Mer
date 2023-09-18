@@ -3,9 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MahanPR&label=Profile%20views&color=0e75b6&style=flat" alt="MahanPR" />
 <img src="https://img.shields.io/github/license/MahanPR/Mer?style=flat-square" alt="https://github.com/MahanPR/MeR/blob/main/LICENSE" />
-<p align="center">
-  <img src="./img/mer.png" width="350" />
-</p>
 
  ### By Meisam
 
