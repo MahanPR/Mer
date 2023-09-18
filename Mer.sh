@@ -22,7 +22,7 @@ while true; do
     clear
     echo -e "${YELLOW}+--------------------------------------------------+${NC}"
     echo -e "${YELLOW}|                                                  |${NC}"
-    echo -e "${YELLOW}|${GRAY}     ____  ___    ___     _____     _____  ___    ${YELLOW}|${NC}"
+    echo -e "${YELLOW}|${GRAY}     ____  ___    ___     ____      ____   ___    ${YELLOW}|${NC}"
     echo -e "${YELLOW}|${GRAY}    ____  /   |  /   |   | ___ \   | ___ \  ___   ${YELLOW}|${NC}"
     echo -e "${YELLOW}|${GRAY}   ____  / /| | / /| |   | \_/ /   | \_/ / ____   ${YELLOW}|${NC}"
     echo -e "${YELLOW}|${GRAY}   ___  / / | |/ / | |   |  __/    |  __ \ ____   ${YELLOW}|${NC}"
