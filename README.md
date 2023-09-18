@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 MeR 🚀 </h1>
+<h1 align="center"> 🚀 Combo 🚀 </h1>
 <h3 align="center"> A bash script for easier access </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MahanPR&label=Profile%20views&color=0e75b6&style=flat" alt="MahanPR" />
